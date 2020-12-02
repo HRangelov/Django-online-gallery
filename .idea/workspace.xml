@@ -30,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../downloads/repos/Doncho Minkov/python-web-frameworks-2020-11-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Django_online_gallery" type="Python.DjangoServer" factoryName="Django server">
@@ -67,6 +67,8 @@
       <updated>1606568210189</updated>
       <workItem from="1606568308256" duration="5445000" />
       <workItem from="1606683976826" duration="4503000" />
+      <workItem from="1606833753420" duration="3589000" />
+      <workItem from="1606858558662" duration="605000" />
     </task>
     <servers />
   </component>
@@ -74,9 +76,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1606684049934">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1606833826874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606684049934" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606833826874" />
   </component>
 </project>

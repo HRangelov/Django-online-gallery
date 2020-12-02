@@ -1,5 +1,6 @@
 from django.core.exceptions import ValidationError
 from django.db import models
+from accounts.models import UserProfile
 
 # from accounts.models import UserProfile
 
@@ -24,7 +25,7 @@ class Painting(models.Model):
         (IMPRESSIONISM, 'Impressionism'),
         (ABSTRACT, 'Abstract'),
         (SURREALISM, 'Surrealism'),
-        (POP, 'Pop')
+        (POP, 'Pop'),
         (UNKNOWN, 'Unknown'),
     )
 
